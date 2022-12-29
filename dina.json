@@ -44,10 +44,10 @@
         {
             "questions" :
             [
-                { "question" : "Who is the DJ character?" },
-                { "question" : "standard characters with no special abilities. Which are the two characters?" },
-                { "question" : "Who is the first character?" },
-                { "question" : "What is the 2nd card?" },
+                { "question" : "WHO DEVELOPED ROBLOX?" },
+                { "question" : "WHAT IS THE VIRTUAL CURRENCY IN ROBLOX?" },
+                { "question" : "WHAT IS THE NAME OF THE OLD CURRENCY, WHICH HAS ALREADY BEEN DISCONTINUED?" },
+                { "question" : "?" },
                 { "question" : "How many animals are there?" },
                 { "question" : "Which of the following is the correct Game genre?" },
                 { "question" : "The game play is fast-paced with each round lasting:" },
@@ -64,9 +64,9 @@
             ],
             "answers" :
             [
-                { "answer" : "ALOKE" },
-                { "answer" : "Adam and Eve" },
-                { "answer" : "Adam" },
+                { "answer" : "Roblox" },
+                { "answer" : "Robux" },
+                { "answer" : "Tix" },
                 { "answer" : "Portugal" },
                 { "answer" : "More" },
                 { "answer" : "Battle Royale" },
@@ -84,9 +84,9 @@
             ],
             "options" :
             [
-                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
-                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
-                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Roblox" }, { "option" : "EA" }, { "option" : "Microsoft" }, { "option" : "Clockwork" },
+                { "option" : "Points" }, { "option" : "Robux" }, { "option" : "Simoleons" }, { "option" : "Roblox dollars" },
+                { "option" : "Tix" }, { "option" : "Robux" }, { "option" : "Trolox" }, { "option" : "Blox" },
                 { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
                 { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
                 { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
