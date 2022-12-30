@@ -393,27 +393,27 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/14.png",
-            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/13.png",
-            "part1" : "Master of All",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
             "part2" : "."
         },
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "rafael",
-            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/16.png",
+            "name" : "",
+            "img1" : "",
             "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/15.png",
-            "part1" : "Dead Silent",
-            "part2" : "Silencing effect when using snipers and marksman rifles."
+            "part1" : "Dead ",
+            "part2" : "Silenci."
         },
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "Alvaro",
-            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/18.png",
+            "name" : "A",
+            "img1" : "",
             "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/17.png",
-            "part1" : "Art of Demolition",
+            "part1" : "",
             "part2" : "."
         }
        
