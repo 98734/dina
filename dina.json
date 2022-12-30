@@ -356,7 +356,25 @@
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "Kenta",
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : " ."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "",
             "img1" : "",
             "img2" : "",
             "part1" : "",
@@ -387,15 +405,6 @@
             "img1" : "",
             "img2" : "",
             "part1" : "",
-            "part2" : " ."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
             "part2" : "."
         },
         {
@@ -403,16 +412,7 @@
             "urlimg" : "",
             "name" : "",
             "img1" : "",
-            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/15.png",
-            "part1" : "Dead ",
-            "part2" : "Silenci."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "A",
-            "img1" : "",
-            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/17.png",
+            "img2" : "",
             "part1" : "",
             "part2" : "."
         }
