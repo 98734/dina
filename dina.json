@@ -109,39 +109,39 @@
         {
             "images" :
             [
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/1.gif" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" },
                 { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/1.gif" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/image/2.jpg" }
+                { "image" : "" }
             ],
             "answers" :
             [
-                { "answer" : "Destiny Guardian" },
-                { "answer" : "Predatory Cobra" },
-                { "answer" : "Destiny Effect" },
-                { "answer" : "Cobra Effect" },
-                { "answer" : "Destiny Guardian" },
-                { "answer" : "Predatory Cobra" },
-                { "answer" : "Destiny Effect" },
-                { "answer" : "Cobra Effect" },
-                { "answer" : "SPAS122" }
+                { "answer" : "" },
+                { "answer" : "" },
+                { "answer" : "" },
+                { "answer" : "" },
+                { "answer" : "" },
+                { "answer" : "" },
+                { "answer" : "" },
+                { "answer" : "" },
+                { "answer" : "" }
             ],
             "options" :
             [
-                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
-                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
-                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
-                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
-                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
-                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
-                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
-                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
-                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" }
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
+                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" }
             ]
         }
     ],
@@ -337,66 +337,66 @@
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "About Sigma",
-            "img1" : "https://modcombo.com/uploads/2022/11/sigma-apk.jpg",
-            "img2" : "https://modcombo.com/uploads/2022/11/sigma-free-fire.jpg",
-            "part1" : "SPECIAL SURVIVAL ABILITY",
-            "part2" : "Are you a fan of Battle Royale games, but tired of playing the same old ones? If yes, try the Sigma Battle Royale download. This game may not be as comprehensive as Fortnite or PUBG, but it is still a great game in its own right."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : "."
         },
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "Homer",
-            "img1" : "https://www.insidesport.in/wp-content/uploads/2022/12/M.jpeg",
-            "img2" : "https://www.insidesport.in/wp-content/uploads/2022/12/gam.jpeg?resize=1024,543",
-            "part1" : "Senses Shockwave",
-            "part2" : "Its maps are detailed and varied, ranging from grasslands to cities and forests. Each environment is filled with obstacles, and you must use your skills and wits to survive."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : "."
         },
         
         {
             "url" : "",
             "urlimg" : "",
             "name" : "Kenta",
-            "img1" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v7.jpg",
-            "img2" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v9.jpg",
-            "part1" : "Swordsman‘s Wrath",
-            "part2" : "It also features a wide arry of weapons and equipment, including assault rifles, sniper rifles, medkits, and flashbangs. There is no shortage of variety when choosing your gear, allowing you to adapt to any situation."
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : "."
         },
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "Nairi",
-            "img1" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v10.jpg",
-            "img2" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v11.png",
-            "part1" : "Ice Iron",
-            "part2" : "Gloowalls deployed will recover 40% of current durability every 1s when damage is taken. Damage increased 30% when using ARs on Gloo WallsNairi found an interest in weather at a young age when he was forced away from cold climates. But his love for snow led him to find a way to get himself back there. He developed micromanipulation climate technology to allow him to survive in the most extreme environments. Now he spends his time rock climbing, hiking and chasing storms looking for the answers to predicting climate."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : " ."
         },
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "Otho",
-            "img1" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v9.jpg",
-            "img2" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v10.jpg",
-            "part1" : "Memor Mist",
-            "part2" : "After eliminating an enemy, the positions of other enemies within 25m of the elimination spot will be revealed. Info will be shared with teammates.Otho has an imaginative yet very practical mind. He is scared to death of forgetting the memories of his past and is trying to find ways to preserve the past. He is getting closer every day and in the process has developed a device that allows him to see others intentions. When he isnt researching more mechanisms to memory, he is out with his friends and spending time daydreaming with his dog."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : "."
         },
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "Leon",
-            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/12.png",
-            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/11.png",
-            "part1" : "Buzzer Beater",
-            "part2" : "Leon is a university student that has some extreme basketball skills and isnt afraid to show them. He can jump higher than almost any one he knows with the help of his bionic leg. He has an interest in electronic and knows how to fix and tinker with his leg when it malfunctions. He may seem like he only cares about basketball, but he uses the sport not only to support his family but also his friends."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : " ."
         },
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "K",
+            "name" : "",
             "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/14.png",
             "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/13.png",
             "part1" : "Master of All",
-            "part2" : "Max EP increases by 50. Jiujitsu Mode: Allies within 6m get 500% increase in EP conversion rate. Psychology Mode: Recover 2 EP every 3s, up to 100 EP. Mode switch CD 3sK was a smart kid, but like most kids his age he didn’t take school seriously. When he was 16, still a junior in high school, he got into a car crash and injured his spine. His doctors told him he would never walk again. But he refused to give up - this would not be the end for him. He went to physical therapy, did his own therapy at home, and found a trainer to help him push further."
+            "part2" : "."
         },
         {
             "url" : "",
