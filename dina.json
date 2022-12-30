@@ -109,15 +109,15 @@
         {
             "images" :
             [
-                { "image" : "" },
-                { "image" : "" },
-                { "image" : "" },
-                { "image" : "" },
-                { "image" : "" },
-                { "image" : "" },
-                { "image" : "" },
-                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
-                { "image" : "" }
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q1.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q2.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q3.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q4.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q5.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q6.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q7.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q8.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q9.jpg" }
             ],
             "answers" :
             [
