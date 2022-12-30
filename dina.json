@@ -121,27 +121,27 @@
             ],
             "answers" :
             [
-                { "answer" : "" },
-                { "answer" : "" },
-                { "answer" : "" },
-                { "answer" : "" },
-                { "answer" : "" },
-                { "answer" : "" },
-                { "answer" : "" },
-                { "answer" : "" },
-                { "answer" : "" }
+                { "answer" : "Royale High" },
+                { "answer" : "Adopt Me" },
+                { "answer" : "Meep City" },
+                { "answer" : "Work At A Pizza Place" },
+                { "answer" : "Piggy" },
+                { "answer" : "Banana Eats" },
+                { "answer" : "Anime Fighting Simulator" },
+                { "answer" : "Brookhaven" },
+                { "answer" : "JailBreak" }
             ],
             "options" :
             [
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" },
-                { "option" : "" }, { "option" : "" }, { "option" : "" }, { "option" : "" }
+                { "option" : "Adopt Me" }, { "option" : "Robloxia High" }, { "option" : "Royale High" }, { "option" : "Meep City" },
+                { "option" : "Royale High " }, { "option" : "Adopt Me" }, { "option" : "Adopt And Raise" }, { "option" : "Pet Escape" },
+                { "option" : "Greenville" }, { "option" : "Adopt Me" }, { "option" : "Meep City" }, { "option" : "Work At A pizza Place" },
+                { "option" : "Luigi’s Coffee" }, { "option" : "Work At A Pizza Place" }, { "option" : "Pizza Simulator " }, { "option" : "Meep City" },
+                { "option" : "Pig Simulator" }, { "option" : "Piggy" }, { "option" : "Pepper Pig Game" }, { "option" : "Piggy Tycoon" },
+                { "option" : "Banana Simulator" }, { "option" : "Banana Eats" }, { "option" : "Scary Banana" }, { "option" : "Run Away From Banana" },
+                { "option" : "Anime Fighting Simulator" }, { "option" : "Sword Fighting" }, { "option" : "Bed Wars" }, { "option" : "Pilfering Pirates" },
+                { "option" : "Adopt Me" }, { "option" : "Greenville" }, { "option" : "Brookhaven" }, { "option" : "Robloxia High School" },
+                { "option" : "Police And Criminal Simulator" }, { "option" : "Da Hood" }, { "option" : "Murder Mystery" }, { "option" : "JailBreak" }
             ]
         }
     ],
