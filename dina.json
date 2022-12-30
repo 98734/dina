@@ -338,8 +338,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c1.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D1.jpeg",
             "part1" : "",
             "part2" : "."
         },
@@ -347,8 +347,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c2.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D2.jpg",
             "part1" : "",
             "part2" : "."
         },
@@ -357,8 +357,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C3p.png",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D3.jpeg",
             "part1" : "",
             "part2" : "."
         },
@@ -366,8 +366,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C4.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D4.jpg",
             "part1" : "",
             "part2" : " ."
         },
@@ -375,8 +375,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c5.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D5.jpeg",
             "part1" : "",
             "part2" : "."
         },
@@ -384,8 +384,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C6.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D6.png",
             "part1" : "",
             "part2" : " ."
         },
@@ -393,7 +393,7 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C7.jpg",
             "img2" : "",
             "part1" : "",
             "part2" : "."
@@ -402,8 +402,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C8.png",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D8.jpeg",
             "part1" : "",
             "part2" : "."
         },
@@ -411,8 +411,8 @@
             "url" : "",
             "urlimg" : "",
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C9.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D9.jpeg",
             "part1" : "",
             "part2" : "."
         }
