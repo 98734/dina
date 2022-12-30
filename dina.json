@@ -337,11 +337,11 @@
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "",
+            "name" : "Lizzy Winkle",
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c1.jpg",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D1.jpeg",
-            "part1" : "",
-            "part2" : "."
+            "part1" : "Royale High",
+            "part2" : "Royale High is a school-themed roleplay/hangout and dress-up Roblox game owned by callmehbob. It was originally titled Fairies and Mermaids Winx High School, and intended as a Winx Club fan roleplay game."
         },
         {
             "url" : "",
@@ -350,7 +350,9 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c2.jpg",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D2.jpg",
             "part1" : "",
-            "part2" : "."
+            "part2" : "It involves players role-playing as different types of workers doing real-world jobs to earn cash, which can be spent on upgrading and decorating their house, buying gears and ordering food items as a customer themselves.
+
+            "
         },
         
         {
@@ -360,7 +362,7 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C3p.png",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D3.jpeg",
             "part1" : "",
-            "part2" : "."
+            "part2" : "Adopt Me is an individual game within Roblox's collection. Adopt Me centres around designing a home, within which players will care for pets and befriend other users."
         },
         {
             "url" : "",
@@ -369,7 +371,8 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C4.jpg",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D4.jpg",
             "part1" : "",
-            "part2" : " ."
+            "part2" : "Jailbreak follows a cops and robbers playing style: criminals perform robberies after escaping the Prison, while police are given the task of stopping crime and arresting criminals
+."
         },
         {
             "url" : "",
@@ -378,7 +381,8 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c5.jpg",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D5.jpeg",
             "part1" : "",
-            "part2" : "."
+            "part2" : "Banana Eats is a Roblox horror puzzle game developed by RyCitrus.The main objective of the game is to hide and survive from the Banana. The Banana's objective is to eat all the players 
+."
         },
         {
             "url" : "",
@@ -387,16 +391,18 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C6.jpg",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D6.png",
             "part1" : "",
-            "part2" : " ."
+            "part2" : "The game takes place in a gang subculture environment, were players can become an Officer or become a Criminal to become a part of a Gang. The game has mainly been criticized due to its toxic environment from its player base.
+."
         },
         {
             "url" : "",
             "urlimg" : "",
             "name" : "",
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C7.jpg",
-            "img2" : "",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D7.png",
             "part1" : "",
-            "part2" : "."
+            "part2" : "Infectious Smile is a Roblox horror game created by Laughablehaha in which players try to stop an infection that causes players to become hostile while also forcing them to wear the Winning Smile face.
+."
         },
         {
             "url" : "",
@@ -405,7 +411,8 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C8.png",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D8.jpeg",
             "part1" : "",
-            "part2" : "."
+            "part2" : "Knife ability test is a player-vs-player deathmatch game developed by Fierzaa. Its objective is to kill targets and other players for rubies. It utilizes elements including knives, guns, and map styles. It has added in Trading Powers.
+."
         },
         {
             "url" : "",
@@ -413,9 +420,12 @@
             "name" : "",
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C9.jpg",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D9.jpeg",
-            "part1" : "",
-            "part2" : "."
+            "part1" : "How do you survive a natural disaster survival on Roblox?",
+            "part2" : "Stay on stable structures just high enough to avoid the flood. Do not climb too high or else the player might fall and die. If the structure falls, jump and try to stay on top of a brick above water."
         }
+     
+        
+        
        
     ]
 }
